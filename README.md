@@ -1,4 +1,4 @@
-### Hi there 👋 This is Ignacio, the Full Stack Developer specializing in dApp and Hybrid Mobile App development.
+### Hi there 👋 This is Ignacio.
 
 I mastered React, React-Native, Vue.js, Node.js, Python, Solidity, Rust and Haskell.
 
