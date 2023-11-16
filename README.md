@@ -24,3 +24,5 @@ An individual is not perfect, no one is able to do everything but if we share ou
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6350c96f367315f8d09517354c3debaeab7b60e888d27931fd9611ca8e6844e7/68747470733a2f2f69636f6e65732e70726f2f77702d636f6e74656e742f75706c6f6164732f323032322f30372f69636f6e652d616e67756c616972652d6f726967696e616c652d6c6f676f2e706e67"><img src="https://camo.githubusercontent.com/6350c96f367315f8d09517354c3debaeab7b60e888d27931fd9611ca8e6844e7/68747470733a2f2f69636f6e65732e70726f2f77702d636f6e74656e742f75706c6f6164732f323032322f30372f69636f6e652d616e67756c616972652d6f726967696e616c652d6c6f676f2e706e67" style="width: 50px; height: 50px; max-width: 100%;" data-canonical-src="https://icones.pro/wp-content/uploads/2022/07/icone-angulaire-originale-logo.png"></a>
 </div>
 
+Contact Me: entrevistasanonimos@gmail.com
+
