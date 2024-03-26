@@ -13,6 +13,3 @@ I will never write down code that aims to hurt someone or damage something and I
 I believe that open-source is one of the most important idea on the IT world. Being able to contribute to any type of open-source project to make the nicest software makes us programmers like a very big family.
 
 An individual is not perfect, no one is able to do everything but if we share our projects making them open-source we will get the chance to get help from people that have more experience than us and continue our growth.
-
-Contact Me: entrevistasanonimos@gmail.com
-
